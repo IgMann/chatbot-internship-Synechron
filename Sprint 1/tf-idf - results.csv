@@ -1,0 +1,55 @@
+method,word simplification,questions modification,metric,average sentence rank,average execution time [s]
+loop,/,light,euclidean,57,0.0293
+loop,/,light,manhattan,19,0.0293
+loop,/,light,cosine,57,0.0293
+loop,/,medium,euclidean,70,0.0286
+loop,/,medium,manhattan,50,0.0286
+loop,/,medium,cosine,70,0.0286
+loop,/,heavy,euclidean,344,0.0513
+loop,/,heavy,manhattan,363,0.0513
+loop,/,heavy,cosine,344,0.0513
+loop,stemming,light,euclidean,142,0.0334
+loop,stemming,light,manhattan,99,0.0334
+loop,stemming,light,cosine,142,0.0334
+loop,stemming,medium,euclidean,262,0.038
+loop,stemming,medium,manhattan,316,0.038
+loop,stemming,medium,cosine,262,0.038
+loop,stemming,heavy,euclidean,946,0.0641
+loop,stemming,heavy,manhattan,792,0.0641
+loop,stemming,heavy,cosine,946,0.0641
+loop,lemmatization,light,euclidean,57,0.0388
+loop,lemmatization,light,manhattan,20,0.0388
+loop,lemmatization,light,cosine,57,0.0388
+loop,lemmatization,medium,euclidean,69,0.0356
+loop,lemmatization,medium,manhattan,49,0.0356
+loop,lemmatization,medium,cosine,69,0.0356
+loop,lemmatization,heavy,euclidean,341,0.0471
+loop,lemmatization,heavy,manhattan,360,0.0471
+loop,lemmatization,heavy,cosine,341,0.0471
+nearest neighbors,/,light,euclidean,57,0.034
+nearest neighbors,/,light,manhattan,19,0.034
+nearest neighbors,/,light,cosine,57,0.034
+nearest neighbors,/,medium,euclidean,70,0.0293
+nearest neighbors,/,medium,manhattan,50,0.0293
+nearest neighbors,/,medium,cosine,70,0.0293
+nearest neighbors,/,heavy,euclidean,344,0.0316
+nearest neighbors,/,heavy,manhattan,363,0.0316
+nearest neighbors,/,heavy,cosine,344,0.0316
+nearest neighbors,stemming,light,euclidean,142,0.0315
+nearest neighbors,stemming,light,manhattan,99,0.0315
+nearest neighbors,stemming,light,cosine,142,0.0315
+nearest neighbors,stemming,medium,euclidean,262,0.0332
+nearest neighbors,stemming,medium,manhattan,316,0.0332
+nearest neighbors,stemming,medium,cosine,262,0.0332
+nearest neighbors,stemming,heavy,euclidean,946,0.0282
+nearest neighbors,stemming,heavy,manhattan,792,0.0282
+nearest neighbors,stemming,heavy,cosine,946,0.0282
+nearest neighbors,lemmatization,light,euclidean,57,0.0309
+nearest neighbors,lemmatization,light,manhattan,20,0.0309
+nearest neighbors,lemmatization,light,cosine,57,0.0309
+nearest neighbors,lemmatization,medium,euclidean,69,0.0329
+nearest neighbors,lemmatization,medium,manhattan,49,0.0329
+nearest neighbors,lemmatization,medium,cosine,69,0.0329
+nearest neighbors,lemmatization,heavy,euclidean,341,0.0367
+nearest neighbors,lemmatization,heavy,manhattan,360,0.0367
+nearest neighbors,lemmatization,heavy,cosine,341,0.0367

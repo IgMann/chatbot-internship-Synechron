@@ -1,0 +1,24 @@
+Test/
+Blackjack\ bot/
+Projekat/
+Naučni\ projekat\ -\ Fabella\ 2023/
+
+Sprint\ 2/.ipynb_checkpoints/
+
+Sprint\ 3/.ipynb_checkpoints/
+Sprint\ 3/Sprint\ 3\ -\ GRU-Copy1.ipynb
+Sprint\ 3/train.csv
+Sprint\ 3/test.csv
+Sprint\ 3/.idea/
+Sprint\ 3/tmp/
+
+Final/__pycache__/
+Final/train.csv
+Final/test.csv
+Final/.idea/
+Final/.env/
+Final/bin/
+Final/lib/
+Final/qa_base_vectorized-300.json
+Final/*.json
+

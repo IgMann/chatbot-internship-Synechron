@@ -1,0 +1,19 @@
+arithmetics,questions modification,metric,average sentence rank,accuracy [%],average execution time [s]
+sum,light,euclidean,11628,80.95,0.0385
+sum,light,manhattan,924,80.95,0.0385
+sum,light,cosine,490,80.95,0.0385
+mean,light,euclidean,931,85.71,0.0343
+mean,light,manhattan,489,80.95,0.0343
+mean,light,cosine,490,80.95,0.0343
+sum,medium,euclidean,96,57.14,0.0288
+sum,medium,manhattan,48,66.67,0.0288
+sum,medium,cosine,52,66.67,0.0288
+mean,medium,euclidean,110,57.14,0.0296
+mean,medium,manhattan,48,76.19,0.0296
+mean,medium,cosine,52,66.67,0.0296
+sum,heavy,euclidean,5169,42.86,0.0287
+sum,heavy,manhattan,134,57.14,0.0287
+sum,heavy,cosine,82,61.9,0.0287
+mean,heavy,euclidean,72,52.38,0.0287
+mean,heavy,manhattan,67,52.38,0.0287
+mean,heavy,cosine,82,61.9,0.0287
